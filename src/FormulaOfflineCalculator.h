@@ -39,13 +39,12 @@ class FormulaOfflineCalculator {
  private:
   FormulaDbManager* formulaDbManager;
 
-  /*
-   * Populate vector inputVariables, init simulatedValues
-   */
+  
+  //Populate vector inputVariables, init simulatedValues  
   void InitVariablesOffline();
 
   // We create input variables for offline tracking
-  std::vector<iVarInterface_sp> inputVariables;
+  std::vector<iVarInterface_sp> inputVariables; 
 
   /*
    * Simulated values, updated once per tick. The indices here are a match of
