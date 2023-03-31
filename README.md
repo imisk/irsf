@@ -4,7 +4,7 @@ Vrsion: 0.0.1  	(June 2020)
 
 This is code I worked on in 2019-2020 and uploaded to GitHub just so I would have some of my work online. It has potential for future development, but I am currently not working on it.
 
-IRSF is a QT desktop app for Windows which runs along the iRacing simulator. It captures live telemetry from your car, and converts the forces into sounds to give you a better feel for the car dynamics.
+iRacing Sound Force (IRSF) is a QT desktop app for Windows which runs along the iRacing simulator. It captures live telemetry from your car, and converts the forces into sounds to give you a better feel for the car dynamics.
 Just like motion rigs can move around due to forces of the car, we try to make this movement into low latency sound to give the user some kind of sense of forces in the car.
 
 It is coded in C++ and features:
