@@ -68,5 +68,5 @@ class FormulaOfflineCalculator {
   std::vector<SymbEvaluated> formulaPostfixEvaluated;
   std::vector<FormulaSymbolEvaluated*> formulaPostfixEvaluated_p;
 };
-}  // namespace irsf
+}  // namespace irsf //
 #endif  // FORMULAOFFLINECALCULATOR_H
